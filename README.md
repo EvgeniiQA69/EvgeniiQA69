@@ -39,6 +39,8 @@
 ### Инструменты и технологии:
 
 
+<img src="https://github.com/EvgeniiQA69/EvgeniiQA69/assets/73597630/a9e00f3e-9ba1-40de-ae12-fc32cfa449dd" width="50">
+<img src="https://github.com/EvgeniiQA69/EvgeniiQA69/assets/73597630/3943a1ff-06b0-4610-bc70-47614bc83c02" width="50">
 
 
 
