@@ -19,18 +19,18 @@
 <ul>
   <li>Тестовая документация</li>
   <ul>
-  <li>[Чек-листы]</li>
-  <li>[Тест-кейсы]</li>
-  <li>[Mind maps]</li>
-  <li>[Баг-репорты]</li>
+  <li><a href="https://disk.yandex.ru/d/4qeEufi6mSVkww" rel="nofollow">Чек-листы</a></li>
+  <li><a href="https://disk.yandex.ru/d/UYhPpL6FPFMnsw" rel="nofollow">Тест-кейсы</a></li>
+  <li><a href="https://disk.yandex.ru/d/gJfRf_t2aCEUvA" rel="nofollow">Mind maps</a></li>
+  <li><a href="https://disk.yandex.ru/d/WpdGTz9BZOHqbQ" rel="nofollow">Баг-репорты</a></li>
   </ul>
   <li>Коллекция в Postman</li>
   <ul>
-  <li>[JSON файлы]</li> 
+  <li><a href="https://disk.yandex.ru/d/3sM2Q5FwKIJPQQ" rel="nofollow">JSON файлы</a></li>
   </ul>
   <li>SQL запросы</li>
   <ul>
-  <li>[SQL файлы]</li>  
+  <li><a href="https://disk.yandex.ru/d/tQuGamh-rMHMGg" rel="nofollow">SQL файлы</a></li>
   </ul>
 </ul>
 
