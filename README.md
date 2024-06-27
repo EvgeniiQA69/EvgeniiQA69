@@ -10,7 +10,7 @@
 
 ### Мое резюме:
 
-(https://www.canva.com/design/DAGH2XriB_Q/wNNLQZo7Z_f1nu19RQIEPA/view?utm_content=DAGH2XriB_Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[PDF](https://disk.yandex.ru/i/eiPO0HcNDpH8pw)
 
 ---
 
