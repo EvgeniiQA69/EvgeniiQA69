@@ -10,7 +10,7 @@
 
 ### Мое резюме:
 
-[PDF](https://disk.yandex.ru/i/eiPO0HcNDpH8pw)
+[PDF](https://disk.yandex.ru/i/DR0bUQM38_pJJA)
 
 ---
 
